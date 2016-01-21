@@ -1,4 +1,4 @@
-# GCDRB Session
+# GCDRB Sessions
 
 ### Links to Session Code
 
