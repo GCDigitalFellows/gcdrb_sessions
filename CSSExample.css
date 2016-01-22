@@ -1,0 +1,81 @@
+#header {
+  width:98%;
+  height:200px;
+  position:relative;
+  margin:1%;
+  border-radius:25px;
+  border: 2px blue solid;
+  background-image:url("https://farm9.staticflickr.com/8194/8100574892_3bf0fa14b2_h.jpg");
+}
+
+#leftnav {
+  width:20%;
+  height:400px;
+  position:relative;
+  float:left;
+  border-style:solid;
+  background-color:#ff9999;
+  border-width:2px;
+  border-color:purple;
+  margin:1%;
+  border-radius:25px;
+}
+
+#body {
+  width:71%;
+  height:360px;
+  position:relative;
+  float:left;
+  background-color:white;
+  margin:1%;
+  padding:20px;
+  border: 1px black solid;
+  border-radius:25px;
+}
+
+#container {
+  max-width:1100px;
+  height:800px;
+  margin-left:auto;
+  margin-right:auto;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  padding:1%;
+}
+
+p {
+  color:black;
+  font-family:arial;
+  font-size:24px;
+}
+
+ul {
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+  width:200px;
+}
+
+.menu {
+  display:block;
+  padding:10px;
+  font-size:20px;
+  border-bottom: 1px solid black;
+}
+
+.menu:hover {
+    background-color: white;
+    color: white;
+}
+
+#sitetitle {
+  margin:auto;
+  text-align:center;
+  padding-top:90px;
+  color:hotpink;
+}
+
+#button{
+  padding-top:20px;
+  padding-left:8px;
+}
